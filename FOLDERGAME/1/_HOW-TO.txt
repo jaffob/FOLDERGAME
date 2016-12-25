@@ -1,0 +1,5 @@
+Names of input sets must only contain numbers or letters; spaces and special characters are not permitted.
+
+Any bitmaps created must be uncompressed and created with 24-bit depth. Typically this will be the default.
+
+Do NOT modify 1_map.bmp.
